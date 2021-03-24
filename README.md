@@ -1,6 +1,6 @@
 # NeX: Real-time View Synthesis with Neural Basis Expansion
 
-### [Project Page](https://nex-mpi.github.io/) | [Video](https://www.youtube.com/watch?v=HyfkF7Z-ddA) | [Paper](https://arxiv.org/pdf/2103.05606.pdf) | [COLAB](https://colab.research.google.com/drive/1hXVvYdAwLA0EFg2zrafJUE0bFgB_F7PU#scrollTo=TFbN4mrJCp8o&sandboxMode=true) | [Shiny Dataset](https://vistec-my.sharepoint.com/personal/pakkapon_p_s19_vistec_ac_th/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpakkapon%5Fp%5Fs19%5Fvistec%5Fac%5Fth%2FDocuments%2Fpublic%2FVLL%2FNeX%2Fshiny%5Fdatasets&originalPath=aHR0cHM6Ly92aXN0ZWMtbXkuc2hhcmVwb2ludC5jb20vOmY6L2cvcGVyc29uYWwvcGFra2Fwb25fcF9zMTlfdmlzdGVjX2FjX3RoL0VuSVVoc1JWSk9kTnNaXzRzbWRoeWUwQjh6MFZseHFPUjM1SVIzYnAwdUd1cFE_cnRpbWU9cGNYZWx5cm0yRWc)
+### [Project Page](https://nex-mpi.github.io/) | [Video](https://www.youtube.com/watch?v=HyfkF7Z-ddA) | [Paper](https://arxiv.org/pdf/2103.05606.pdf) | [COLAB](https://colab.research.google.com/drive/1hXVvYdAwLA0EFg2zrafJUE0bFgB_F7PU#scrollTo=TFbN4mrJCp8o&sandboxMode=true) | [Shiny Dataset](https://vistec-my.sharepoint.com/:f:/g/personal/pakkapon_p_s19_vistec_ac_th/EnIUhsRVJOdNsZ_4smdhye0B8z0VlxqOR35IR3bp0uGupQ?e=TsaQgM)
 
 [![Open NeX in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hXVvYdAwLA0EFg2zrafJUE0bFgB_F7PU#scrollTo=TFbN4mrJCp8o&sandboxMode=true)
 
