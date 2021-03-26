@@ -37,7 +37,7 @@ def runner(dataset):
    --database_path " + dataset + "/database.db \
    --image_path " + dataset + "/images \
    --ImageReader.single_camera 1\
-   --ImageReader.camera_model SIMPLE_PINHOLE")
+   --ImageReader.camera_model SIMPLE_RADIAL")
 
   cmd("colmap exhaustive_matcher \
    --database_path " + dataset + "/database.db " \
