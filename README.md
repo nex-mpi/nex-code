@@ -87,7 +87,7 @@ For a GPU/GPUs with less memory (e.g., a single RTX 2080Ti), you can run using t
 ```shell
 python train.py -scene ${PATH_TO_SCENE} -model_dir ${MODEL_TO_SAVE_CHECKPOINT} -http -layers 12 -sublayers 6 -hidden 256
 ```
-Note that when your GPU runs ouut of memeory, you can try reducing the number of layers, sublayers, and sampled rays.
+Note that when your GPU runs out of memory, you can try reducing the number of layers, sublayers, and sampled rays.
 
 ## Rendering
 
